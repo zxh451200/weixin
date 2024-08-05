@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/uni_modules/uni-collapse/components/uni-collapse-item" />
+      <excludeFolder url="file://$MODULE_DIR$/uni_modules/uni-drawer/components" />
+      <excludeFolder url="file://$MODULE_DIR$/uni_modules/uni-grid/components/uni-grid-item" />
+      <excludeFolder url="file://$MODULE_DIR$/uni_modules/uni-number-box/components" />
+      <excludeFolder url="file://$MODULE_DIR$/uni_modules/uni-steps/components" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,71 @@
+/* 水平间距 */
+/* 水平间距 */
+.uni-margin-wrap {
+  padding: 8rpx;
+}
+.uni-margin-wrap .swiper {
+  border-radius: 8rpx;
+  overflow: hidden;
+}
+.uni-margin-wrap .swiper-item {
+  width: 100%;
+  height: 100%;
+}
+.uni-margin-wrap .uni-bg-red {
+  background: red;
+}
+.uni-margin-wrap .uni-bg-green {
+  background: green;
+}
+.uni-margin-wrap .uni-bg-blue {
+  background: blue;
+}
+.grid {
+  margin-top: 12rpx;
+}
+.grid .grid-box {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.recommand {
+  display: flex;
+  gap: 20rpx;
+  height: 240rpx;
+  padding: 20rpx;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 8rpx;
+}
+.recommand-left {
+  width: 200rpx;
+  height: 200rpx;
+  background: red;
+  border-radius: 8rpx;
+}
+.recommand-right {
+  flex: 1;
+}
+.recommand-right .top .title {
+  font-weight: 500;
+}
+.recommand-right .top .integral {
+  color: green;
+  font-size: 10px;
+  margin-left: 20rpx;
+}
+.recommand-right .middle {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20rpx;
+  color: green;
+  font-size: 10px;
+}
+.recommand-right .middle text + text {
+  margin-left: 20rpx;
+}
+.recommand-right .button {
+  margin-top: 40rpx;
+}
